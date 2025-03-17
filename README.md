@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dummycoder&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummycoder&layout=compact&langs_count=6&theme=radical&exclude_repo=coffeescript,ruby" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummycoder&layout=compact&langs_count=6&theme=radical&exclude_repo=javascript,python" alt="Top Languages">
 </p>
 
 ---
