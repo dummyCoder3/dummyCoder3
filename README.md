@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DummyCoder&fontSize=60&fontAlign=50&fontAlignY=45&desc=Casual%20Dev%20%7C%20Coding%20Enthusiast%20%7C%20Learning%20Every%20Day&descAlign=50&descAlignY=70" alt="Header">
 
-<h1 align="center">Hey there, I'm DummyCoder (<a href="https://github.com/dummyCoder3" target="_blank">Mr. A</a>) 👋</h1>
-<p align="center">Just a casual dev who enjoys building cool stuff.</p>
+<h1 align="center">Hey there, this is (<a href="https://github.com/dummyCoder3" target="_blank">Mr. A</a>) 👋</h1>
+<p align="center">I am just a casual dev who enjoys building cool stuff.</p>
 
 ---
 
